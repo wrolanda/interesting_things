@@ -6,7 +6,7 @@
 /*   By: wrolanda <wrolanda@student.21-school.ru    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/18 20:20:39 by wrolanda          #+#    #+#             */
-/*   Updated: 2022/01/18 21:16:03 by wrolanda         ###   ########.fr       */
+/*   Updated: 2022/01/18 21:37:51 by wrolanda         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 Assigment name	: inter
 Expected files	: inter.c
 Allowed fuctions: write
-_______________________________________________________________________________
+-------------------------------------------------------------------------------
 
 Write a program that takes two strings and displays, without doubles, the
 characters that appear in both strings, in the order they appear in the first

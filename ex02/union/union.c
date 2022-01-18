@@ -6,9 +6,19 @@
 /*   By: wrolanda <wrolanda@student.21-school.ru    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/18 20:51:19 by wrolanda          #+#    #+#             */
-/*   Updated: 2022/01/18 21:34:00 by wrolanda         ###   ########.fr       */
+/*   Updated: 2022/01/18 21:37:26 by wrolanda         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+/*
+Assignment name  : union
+Expected files   : union.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a program that takes two strings and displays, without doubles, the
+characters that appear in either one of the strings.
+*/
 
 #include <unistd.h>
 
